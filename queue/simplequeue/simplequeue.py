@@ -14,7 +14,7 @@ class queue :
 		self.array = []
 
 	def _empty(self) :
-		return True if self.array == 0 else False
+		return True if len(self.array) == 0 else False
 
 	def _size(self) :
 		return len(self.array)
