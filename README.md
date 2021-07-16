@@ -26,6 +26,6 @@ node <AlgorithmName.js>
 if you have any issues running codes or want to ask me a few Questions, feel free to contact me using these social media accounts and I'll be happy to reply .
 
 * Facebook : https://www.facebook.com/Lelouche0x1
-* Instagram: https://www.instagram.com/lelouche0x1/
+* Instagram : https://www.instagram.com/lelouche0x1
 * Twitter  : https://twitter.com/Lelouche01
 * Github   : https://github.com/Lelouche01
