@@ -21,9 +21,10 @@ python3 <AlgorithmName.py>
 ```javascript
 node <AlgorithmName.js>
 ```
-# Contct me
+## Contact Me
 
-if you have any issues running codes or want to ask me a few Questions, feel free to contact me using these social media accounts and I'll be happy to reply .
+* [Twitter][_1]
+* [Instagram][_2]
 
-* Twitter : https://twitter.com/amait0u
-* Instagram : https://www.instagram.com/amait0u
+[_1]: https://twitter.com/amait0u
+[_2]: https://www.instagram.com/amait0u
