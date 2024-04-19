@@ -11,7 +11,5 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 ## Contact Me
 
 * [Twitter][_1]
-* [Instagram][_2]
 
 [_1]: https://twitter.com/amait0u
-[_2]: https://www.instagram.com/amait0u
