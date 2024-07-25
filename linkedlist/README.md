@@ -1,3 +1,6 @@
+---
+![Singlelinkedlist](https://github.com/user-attachments/assets/604a55db-e939-489c-a0e5-271e103b2c08)
+---
 
 # Introduction to LinkedList
 
@@ -7,15 +10,26 @@ A linked list is a linear data structure where elements are stored in nodes, wit
 
 ### Different Types of Linked Lists
 
-- **Singly Linked List** -> Each node points to the next node in the sequence.
-- **Doubly Linked List** -> Each node points to both the next and the previous nodes.
+- **Singly Linked List**
+
+    Each node points to the next node in the sequence.
+
+    ![singly-linkedlist](https://github.com/user-attachments/assets/49785f90-fe02-4be9-892d-fa2aca196f53)
+
+
+- **Doubly Linked List**
+
+    Each node points to both the next and the previous nodes.
+
+    ![DLL1](https://github.com/user-attachments/assets/63b9a7bb-c254-4aed-bc24-913c5cc76a79)
+
 
 ---
 
 ### Difference Between Singly and Doubly Linked Lists
 
-- Singly Linked List -> Simpler to implement, uses less memory as each node only has one pointer.
-- Doubly Linked List -> More complex due to additional pointer, but allows for easier traversal both forwards and backwards.
+- **Singly Linked List** -> Simpler to implement, uses less memory as each node only has one pointer.
+- **Doubly Linked List** -> More complex due to additional pointer, but allows for easier traversal both forwards and backward.
 
 ---
 
