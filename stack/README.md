@@ -2,6 +2,16 @@
 ![stack-banner](https://github.com/user-attachments/assets/1ecbd957-b04c-47c9-969d-3e4dacacf156)
 
 ---
+
+# Overview
+
+- [Introduction to Stacks](https://github.com/amaitou/DataStructures/tree/main/stack#introduction-to-stacks)
+- [Stack Implementation](https://github.com/amaitou/DataStructures/tree/main/stack#stack-implementation)
+- [How and When to Use Stacks](https://github.com/amaitou/DataStructures/tree/main/stack#how-and-when-to-use-stacks)
+    - [When to Use Stacks](https://github.com/amaitou/DataStructures/tree/main/stack#when-to-use-stacks)
+    - [How to Use Stacks](https://github.com/amaitou/DataStructures/tree/main/stack#how-to-use-stacks)
+
+---
 # Introduction to Stacks
 
 A stack is a fundamental data structure in computer science that follows a particular order for inserting and deleting elements. This order is known as Last In, First Out (LIFO), meaning that the last element added to the stack will be the first one to be removed. The analogy often used to explain stacks is a stack of plates: you can only take the top plate off the stack and can only add a new plate on top.
