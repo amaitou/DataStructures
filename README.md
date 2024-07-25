@@ -37,7 +37,7 @@
 
     - **Complexity**: Analyzing the time complexity (how the runtime increases with input size) and space complexity (how the memory usage increases with input size).
 
-In this repository I tried to implement a few of the data structures and some searching and sorting algorithms using different programming and scripting languages, feel free to check each one of them
+In this repository, I tried to implement a few of the data structures and some searching and sorting algorithms using different programming and scripting languages, feel free to check each one of them
 
 # Direct Access
 
