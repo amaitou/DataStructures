@@ -6,6 +6,7 @@
 # Overview
 
 - [Introduction to Stacks](https://github.com/amaitou/DataStructures/tree/main/stack#introduction-to-stacks)
+- [Basic Operations](https://github.com/amaitou/DataStructures/tree/main/stack#basic-operations)
 - [Stack Implementation](https://github.com/amaitou/DataStructures/tree/main/stack#stack-implementation)
 - [How and When to Use Stacks](https://github.com/amaitou/DataStructures/tree/main/stack#how-and-when-to-use-stacks)
     - [When to Use Stacks](https://github.com/amaitou/DataStructures/tree/main/stack#when-to-use-stacks)
