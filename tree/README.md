@@ -4,6 +4,20 @@
 
 ---
 
+# Overview
+
+- [Introduction](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#introduction)
+- [Key Characteristics](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#key-characteristics)
+- [Types of trees](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#types-of-trees)
+- [Binary search tree](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#binary-search-tree)
+    - [Implementation](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#implementation)
+    - [Where to use BST](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#where-to-use-bst)
+        - [Use Cases](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#use-cases)
+        - [When to use](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#when-to-use)
+    - [Real-World Examples of BST](https://github.com/amaitou/DataStructures/blob/main/tree/README.md#real-world-examples-of-bst)
+
+---
+
 # Introduction
 
 A tree is a data structure that simulates a hierarchical tree structure with a set of connected nodes. Each node contains a value and pointers to its children. Trees are widely used to represent hierarchical data, such as organizational structures, file systems, and more.
