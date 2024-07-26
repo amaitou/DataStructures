@@ -1,4 +1,9 @@
 
+---
+![tree-centers-examples](https://github.com/user-attachments/assets/8b0621d6-0f5e-4b56-9d2a-361782d91d4a)
+
+---
+
 # Introduction
 
 A tree is a data structure that simulates a hierarchical tree structure with a set of connected nodes. Each node contains a value and pointers to its children. Trees are widely used to represent hierarchical data, such as organizational structures, file systems, and more.
@@ -34,6 +39,9 @@ There are various types of trees used in computer science, each serving differen
 ---
 
 # Binary search tree
+
+![1_ziYvZzrttFYMXkkV9u66jw](https://github.com/user-attachments/assets/ac61f36f-d003-4058-b966-6a0e22607ece)
+
 
 A Binary Search Tree (BST) is a type of binary tree that maintains the following properties:
 
